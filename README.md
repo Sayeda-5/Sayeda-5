@@ -1,7 +1,7 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hi 👋, I'm Sidra Syed</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/236x/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.jpg](https://i.pinimg.com/236x/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.jpg)">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeda-5&label=Profile%20views&color=0e75b6&style=flat" alt="sayeda-5" /> </p>
