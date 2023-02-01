@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Maven, Hibernate, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sayeda-5/Sayeda-5.github.io](https://github.com/Sayeda-5/Sayeda-5.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/Sayeda-5/Sayeda-5.github.io](https://github.com/Sayeda-5/Sayeda-5.github.io) -->
 
 - 📫 How to reach me **sidrasyed199930@gmail.com**
 
