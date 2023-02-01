@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sidra syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidra syed" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sidra syed](https://www.linkedin.com/in/sidra-syed?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADzGigABPCYt2xKt0LyrtXbkGE-_yb3X_9k&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BHEcgq%2FKsTx29LqadcfTWDA%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidra syed" height="30" width="40" /></a>
 <a href="https://instagram.com/syedsidra00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedsidra00" height="30" width="40" /></a>
 </p>
 
