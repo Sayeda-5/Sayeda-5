@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Spring Boot, Maven, Hibernate, MySQL**
 
 - 📫 How to reach me **sidrasyed199930@gmail.com**
-- 📫 Porfolio **https://sayeda-5.github.io/**
+- 📋 Porfolio **https://sayeda-5.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
