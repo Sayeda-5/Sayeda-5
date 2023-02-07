@@ -4,7 +4,7 @@
 <h3 align="center">A passionate backend developer from Rajasthan India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeda-5&label=Profile%20views&color=0e75b6&style=flat" alt="sayeda-5" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeda-5&label=Profile%20views&color=0e75b6&style=flat" alt="sayeda-5" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayeda-5" alt="sayeda-5" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sidra-syed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BeKeIZ9uTCq9q%2FqSPALKdQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidra syed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sidra-syed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidra syed" height="30" width="40" /></a>
 <a href="https://instagram.com/syedsidra00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedsidra00" height="30" width="40" /></a>
 </p>
 
